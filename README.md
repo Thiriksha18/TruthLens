@@ -13,7 +13,6 @@ TruthLens is an AI-based system that evaluates the trustworthiness of responses 
 - Python
 - Machine Learning
 - Natural Language Processing
-- Jupyter Notebook
 
 ## Project Structure
 TruthLens/
